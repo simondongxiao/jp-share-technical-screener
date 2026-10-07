@@ -1,5 +1,9 @@
-# 日股技术筛选 HTML
+# JP Share Technical Screener
 
-Published entry will be provided after GitHub Pages deployment.
+Published entry: https://simondongxiao.github.io/jp-share-technical-screener/
 
-Data sources: 证券清单：JPX TSE Listed Issues；中文显示：JPX英文公司名经中文化处理；最新市值：Yahoo Finance marketCap，单位为亿日元；行情/K线：Yahoo Finance chart API。
+Generated at: 2026-10-07 11:08:24 +0800
+
+Base trading date: 2026-10-06
+
+Data sources: JPX TSE Listed Issues for universe; JPX English issue names converted for Chinese display; Yahoo Finance marketCap for latest market cap; Yahoo Finance chart API for price/K-line.

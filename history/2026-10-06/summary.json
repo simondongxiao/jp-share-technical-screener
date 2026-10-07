@@ -1,0 +1,9 @@
+{
+  "base_date": "2026-10-06",
+  "generated_at": "2026-10-07 11:08:24 +0800",
+  "scanned_count": 3510,
+  "coverage_ok": 3519,
+  "coverage_error": 181,
+  "source_note": "证券清单：JPX TSE Listed Issues；中文显示：JPX英文公司名经中文化处理；最新市值：Yahoo Finance marketCap，单位为亿日元；行情/K线：Yahoo Finance chart API。",
+  "gap_note": "Yahoo Finance market data failures are recorded in yahoo_diagnostics.csv; any missing symbols are excluded from calculated pools. Market caps are provider-reported latest values and may be unavailable for some symbols."
+}
