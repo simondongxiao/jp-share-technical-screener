@@ -2,8 +2,8 @@
 
 Published entry: https://simondongxiao.github.io/jp-share-technical-screener/
 
-Generated at: 2026-10-07 11:08:24 +0800
+Generated at: 2026-10-08 17:41:53 +0800
 
-Base trading date: 2026-10-06
+Base trading date: 2026-10-08
 
-Data sources: JPX TSE Listed Issues for universe; JPX Japanese issue names and curated Chinese aliases for display; Yahoo Finance marketCap for latest market cap; Yahoo Finance chart API for price/K-line.
+数据来源：JPX TSE Listed Issues 普通股清单；JPX日文銘柄名与常用中文别名用于中文显示；Yahoo Finance marketCap 提供最新市值；Yahoo Finance chart API 提供行情/K线；主营业务/细分赛道采用公司代码、名称关键词与行业兜底的保守归类。
